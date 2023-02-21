@@ -2,3 +2,4 @@ Rever aulas sobre Git e GitHub
 Aprender como apagar projetos no Github (apagar o das receitas)
 Editor de texto .md não abre automaticamente (typedown) (typora é pago) - analisar como configurar no pc para abrir automaticamente.
 Estudar os comandos do git. Decorar. 
+Assistir aula sobre curriculo (youtube)
